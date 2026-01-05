@@ -1,2 +1,5 @@
 server.key
 *.key
+edge_client1
+edge_client2
+server_last
